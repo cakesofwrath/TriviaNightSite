@@ -1,0 +1,33 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Trivia!</title>
+    <link rel="stylesheet" type="text/css" href="reveal/css/reveal.css">
+    <link rel="stylesheet" type="text/css" href="reveal/css/theme/black.css" id="theme">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/react/0.14.3/react.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/react/0.14.3/react-dom.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-core/5.8.23/browser.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script src="reveal/js/reveal.js"></script>
+  </head>
+  <body>
+    <div id="slides">
+    </div>
+    <script type="text/babel" src="main.js"></script>
+    <script type="text/javascript">
+      setTimeout(function() {
+        console.log("init");
+        Reveal.initialize({
+          controls: true,
+          progress: true,
+          center: true,
+
+          transition: 'slide', // none/fade/slide/convex/concave/zoom
+
+        });
+      }, 2500);
+    </script>
+  </body>
+</html>   

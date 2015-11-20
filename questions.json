@@ -1,0 +1,309 @@
+{
+    "open": {
+        "Historical Nicknames": [
+            {
+                "q": "What actress played the Iron Lady in the eponymous 2011 movie?",
+                "a": "Meryl Streep"
+            },
+            {
+                "q": "What was the nickname of the notorious German World War I pilot who is best known as the alter ego of a cartoon dog?",
+                "a": "The Red Baron"
+            },
+            {
+                "q": "What wartime president of France earned the nickname \"The Great Asparagus\"?",
+                "a": "Charles de Gaulle"
+            },
+            {
+                "q": "What country did Finnish sniper Simo Häyhä, known as THE WHITE DEATH, fight against?",
+                "a": "Russia"
+            },
+            {
+                "q": "What famous Greek philosopher is known by this five-letter nickname, which means “the broad”?",
+                "a": "Plato"
+            },
+            {
+                "q": "What sport did \"Pistol Pete\" Pete Maravich play?",
+                "a": "Basketball"
+            }
+
+        ],
+        "Emoji - books": [
+            {
+                "q": "<img src=\"image17.png\"></img>",
+                "a": "A Tale of Two Cities"
+            },
+            {
+                "q": "<img src=\"image07.png\"></img>",
+                "a": "Fahrenheit 451"
+            },
+            {
+                "q": "<img src=\"image15.png\"></img>",
+                "a": "Great Gatsby"
+            },
+            {
+                "q": "<img src=\"image10.png\"></img>",
+                "a": "Of Mice and Men"
+            },
+            {
+                "q": "<img src=\"image19.png\"></img>",
+                "a": "To the Lighthouse"
+            },
+            {
+                "q": "<img src=\"image18.png\"></img>",
+                "a": "Harry Potter"
+            },
+            {
+                "q": "<img src=\"image14.png\"></img>",
+                "a": "Grapes of Wrath"
+            },
+            {
+                "q": "<img src=\"image03.png\"></img>",
+                "a": "Animal Farm"
+            },
+            {
+                "q": "<img src=\"image04.png\"></img>",
+                "a": "Water for Elephants"
+            },
+            {
+                "q": "<img src=\"image00.png\"></img>",
+                "a": "Catch-22"
+            }
+        ],
+        "Science": [
+            {
+                "q": "Which colorful lizard has a tongue 1.5 times the length of its body?",
+                "a": "Chameleon"
+            },
+            {
+                "q": "What is the powerhouse of the cell?",
+                "a": "Mitochondria"
+            },
+            {
+                "q": "How many dozen pounds would a full head of hair support?",
+                "a": "1 dozen"
+            },
+            {
+                "q": "What is the 4th element of the periodic table?",
+                "a": "Beryllium"
+            },
+            {
+                "q": "What does bone marrow do?",
+                "a": "Make blood cells"
+            },
+            {
+                "q": "What is the shape of DNA?",
+                "a": "Double helix"
+            },
+            {
+                "q": "What is the furthest human-made object from Earth?",
+                "a": "Voyager 1"
+            },
+            {
+                "q": "What is the largest living structure on Earth? Also, where's Nemo?",
+                "a": "The Great Barrier Reef"
+            },
+            {
+                "q": "What is the closest star to the Earth?",
+                "a": "The Sun"
+            },
+            {
+                "q": "What ursine animals' liver will kill you if you eat it (though why would you)?",
+                "a": "Polar bear"
+            }
+        ],
+
+        "Food": [
+            {
+                "q": "What was invented when a WWII pastry maker tried to extend his chocalate ration by adding hazlenuts?",
+                "a": "Nutella"
+            },
+            {
+                "q": "Where is Paella from?",
+                "a": "Spain"
+            },
+            {
+                "q": "What ancient civilization does Hot Chocolate originate from?",
+                "a": "The Maya"
+            },
+            {
+                "q": "What type of baked good sometimes uses beets as coloring?",
+                "a": "Red velvet"
+            },
+            {
+                "q": "What is the fruit of the coconut palm tree?",
+                "a": "Coconut"
+            },
+            {
+                "q": "What type of nut actually comes from a fruit?",
+                "a": "Cashew"
+            },
+            {
+                "q": "What is the hottest pepper in the world, according to Guiness World Record?",
+                "a": "The Carolina Reaper"
+            },
+            {
+                "q": "What is a Rocky Mountain Oyster",
+                "a": "A dish made of bull, pig, or sheep testicles"
+            },
+            {
+                "q": "What Dutch country is the world's largest consumer of coffee per capita?",
+                "a": "The Netherlands"
+            }
+
+        ],
+        "Emoji - TV and Movies": [
+            {
+                "q": "<img src=\"image12.png\"></img>",
+                "a": "Wizard of Oz"
+            },
+            {
+                "q": "<img src=\"image06.png\"></img>",
+                "a": "I, Robot"
+            },
+            {
+                "q": "<img src=\"image08.png\"></img>",
+                "a": "Dragonball Z"
+            },
+            {
+                "q": "<img src=\"image05.png\"></img>",
+                "a": "E.T."
+            },
+            {
+                "q": "<img src=\"image01.png\"></img>",
+                "a": "Air Bud"
+            },
+            {
+                "q": "<img src=\"image16.png\"></img>",
+                "a": "Beauty and the Beast"
+            },
+            {
+                "q": "<img src=\"image13.png\"></img>",
+                "a": "Silence of the Lambs"
+            },
+            {
+                "q": "<img src=\"image11.png\"></img>",
+                "a": "Mary Poppins"
+            },
+            {
+                "q": "<img src=\"image02.png\"></img>",
+                "a": "Moneyball"
+            }
+        ],
+        "Movies": [
+            {
+                "q": "Who was the main actor/actress in Lord of the Rings?",
+                "a": "Elijah Wood (Frodo)"
+            },
+            {
+                "q": "Who was the first character to fart in a disney movie?",
+                "a": "Pumba"
+            },
+            {
+                "q": "What was the first color animated movie?",
+                "a": "Snow White"
+            },
+            {
+                "q": "What sports movie had an out-of-this-world soundtrack that went sextuple platinum?",
+                "a": "Space Jam"
+            },
+            {
+                "q": "Who is Gromit?",
+                "a": "A dog"
+            },
+            {
+                "q": "What country did The Sound of Music take place in?",
+                "a": "Austria"
+            },
+            {
+                "q": "What was the highest grossing movie of all time (not adjusting for inflation)?",
+                "a": "Avatar"
+            },
+            {
+                "q": "What was the highest grossing movie of all time (adjusting for inflation)?",
+                "a": "Gone with the Wind"
+            }        
+        ]
+    },
+    "final": {
+        "Finish the song lyric and name the song!": [
+            {
+                "q": "His palms are sweaty, knees weak, arms are heavy \\ There's vomit on his sweater already: mom's _______",
+                "a": "Spaghetti, Lose Yourself"
+            },
+            {
+                "q": "Never gonna let you down \\ Never gonna run around and _______ you \\ Never gonna make you cry",
+                "a": "Desert, Never Gonna Give You Up."
+            },
+            {
+                "q": "Drove my Chevy to the levee but the levee was dry \\ And them good ole boys were drinking _______ and _______",
+                "a": "Whiskey and Rye, American Pie"
+            },
+            {
+                "q": "It seems like a perfect night to dress up like hipsters \\ And make fun of our _______, uh uh, uh uh",
+                "a": "Exes, 22"
+            },
+            {
+                "q": "If there was a problem yo I'll solve it \\ Check out the hook while my DJ _______ _______",
+                "a": "Revolves it, Ice Ice Baby"
+            },
+            {
+                "q": "When she was just a girl she expected the world \\ But it flew away from her reach \\ So she ran away in her sleep and dreamed of \\ _______",
+                "a": "Para-para-paradise, Paradise"
+            },
+            {
+                "q": "No _______ no _______",
+                "a": "Woman, cry, No woman no cry"
+            },
+            {
+                "q": "You got mud on your face \\ You big _______",
+                "a": "Disgrace, We Will Rock You"
+            }
+        ],
+        "Combo It!": [
+            {
+                "q": "Becoming a lawyer, and a crunchy snack",
+                "a": "Passing the granola bar"
+            },
+            {
+                "q": "Famous child of a 2020 presidential candidate, and the US Military Academy",
+                "a": "Northwest Point"
+            },
+            {
+                "q": "NBC Comedy with Amy Poehler, and a Miley Cyrus Song",
+                "a": "Parks and Rec-ing Ball"
+            },
+            {
+                "q": "T Swizzle leaves the haters behind, and our alma mater",
+                "a": "Shaker it off"
+            },
+            {
+                "q": "Lost to Obama, and how Caesar learned to count",
+                "a": "Mitt Roman Numerals"
+            },
+            {
+                "q": "Popular social network, and religious satire musical",
+                "a": "Facebook of Mormon"
+            },
+            {
+                "q": "Classical composer, and classic sci-fi movie",
+                "a": "Bach to the Future"
+            },
+            {
+                "q": "Triangle with two identical sides, another way to say rent, term for the smallest positive integer that is divisible by both a and b",
+                "a": "isosce-lease common multiple"
+            },
+            {
+                "q": "The Secretary-General of the UN, and a Chinese pastry",
+                "a": "Ban-Ki Mooncake"
+            },
+            {
+                "q": "1738 Pirate and lyrical conflict",
+                "a": "Fetty Wap Battle"
+            },
+            {
+                "q": "POTUS and the state formerly governed by a loser to the POTUS",
+                "a": "Obamassachussets"
+            }
+        ]
+    }    
+}
